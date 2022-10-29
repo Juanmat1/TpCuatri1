@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="funciones.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="29997" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="87" />
+			<Collapse line="133" />
+			<Collapse line="232" />
+			<Collapse line="296" />
+			<Collapse line="353" />
+			<Collapse line="388" />
+			<Collapse line="476" />
+			<Collapse line="521" />
+			<Collapse line="531" />
+			<Collapse line="551" />
+			<Collapse line="588" />
+			<Collapse line="639" />
+			<Collapse line="700" />
+			<Collapse line="716" />
+			<Collapse line="736" />
+			<Collapse line="764" />
+			<Collapse line="847" />
+			<Collapse line="861" />
+			<Collapse line="904" />
+			<Collapse line="1039" />
+			<Collapse line="1157" />
+			<Collapse line="1168" />
+			<Collapse line="1190" />
+			<Collapse line="1249" />
+			<Collapse line="1304" />
+			<Collapse line="1338" />
+			<Collapse line="1372" />
+			<Collapse line="1434" />
+			<Collapse line="1491" />
+			<Collapse line="1508" />
+			<Collapse line="1544" />
+			<Collapse line="1552" />
+			<Collapse line="1570" />
+			<Collapse line="1588" />
+			<Collapse line="1606" />
+		</Folding>
+	</File>
+	<File name="funciones.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3805" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="403" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

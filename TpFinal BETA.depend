@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1656008805 source:c:\users\juanm\desktop\beta 1.0\tpfinal beta\funciones.c
+	"funciones.h"
+	"windows.h"
+
+1656010154 c:\users\juanm\desktop\beta 1.0\tpfinal beta\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"conio.h"
+
+1656008791 source:c:\users\juanm\desktop\beta 1.0\tpfinal beta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"conio.h"
+	"funciones.h"
+	"windows.h"
+
+1656008805 source:f:\onedrive - utn frmdp\progra\beta 1.0\tpfinal beta\funciones.c
+	"funciones.h"
+	"windows.h"
+
+1656010154 f:\onedrive - utn frmdp\progra\beta 1.0\tpfinal beta\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"conio.h"
+
+1667017240 source:f:\onedrive - utn frmdp\progra\beta 1.0\tpfinal beta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"conio.h"
+	"funciones.h"
+	"windows.h"
+
